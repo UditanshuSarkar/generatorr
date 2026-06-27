@@ -61,4 +61,4 @@ def create_account():
     else: logger.error(f"Account creation failed: {result}"); return jsonify(result), 400
 if __name__ == '__main__':
     logger.info("Starting Flask server on port 2009")
-    app.run(host='0.0.0.0', port=30230, debug=False)
+    app.run(host='0.0.0.0', port=8080, debug=False)
