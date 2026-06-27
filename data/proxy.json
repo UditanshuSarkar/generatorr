@@ -1,320 +1,134 @@
 [
   {
-    "host": "proxy.soax.com",
-    "port": "26818",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
+    "host": "co-bog.pvdata.host",
+    "port": "8080",
+    "username": "g2rTXpNfPdcw2fzGtWKp62yH",
+    "password": "nizar1elad2"
   },
   {
-    "host": "proxy.soax.com",
-    "port": "26825",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
+    "host": "cz-pra.pvdata.host",
+    "port": "8080",
+    "username": "g2rTXpNfPdcw2fzGtWKp62yH",
+    "password": "nizar1elad2"
   },
   {
-    "host": "proxy.soax.com",
-    "port": "26830",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
+    "host": "ee-tal.pvdata.host",
+    "port": "8080",
+    "username": "g2rTXpNfPdcw2fzGtWKp62yH",
+    "password": "nizar1elad2"
   },
   {
-    "host": "proxy.soax.com",
-    "port": "26832",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
+    "host": "fr-par.pvdata.host",
+    "port": "8080",
+    "username": "g2rTXpNfPdcw2fzGtWKp62yH",
+    "password": "nizar1elad2"
   },
   {
-    "host": "proxy.soax.com",
-    "port": "26833",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
+    "host": "de-ber.pvdata.host",
+    "port": "8080",
+    "username": "g2rTXpNfPdcw2fzGtWKp62yH",
+    "password": "nizar1elad2"
   },
   {
-    "host": "proxy.soax.com",
-    "port": "26834",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
+    "host": "de-fra.pvdata.host",
+    "port": "8080",
+    "username": "g2rTXpNfPdcw2fzGtWKp62yH",
+    "password": "nizar1elad2"
   },
   {
-    "host": "proxy.soax.com",
-    "port": "26835",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
+    "host": "gr-ath.pvdata.host",
+    "port": "8080",
+    "username": "g2rTXpNfPdcw2fzGtWKp62yH",
+    "password": "nizar1elad2"
   },
   {
-    "host": "proxy.soax.com",
-    "port": "26836",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
+    "host": "hu-bud.pvdata.host",
+    "port": "8080",
+    "username": "g2rTXpNfPdcw2fzGtWKp62yH",
+    "password": "nizar1elad2"
   },
   {
-    "host": "proxy.soax.com",
-    "port": "26837",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
+    "host": "ie-dub.pvdata.host",
+    "port": "8080",
+    "username": "g2rTXpNfPdcw2fzGtWKp62yH",
+    "password": "nizar1elad2"
   },
   {
-    "host": "proxy.soax.com",
-    "port": "26838",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
+    "host": "il-tel.pvdata.host",
+    "port": "8080",
+    "username": "g2rTXpNfPdcw2fzGtWKp62yH",
+    "password": "nizar1elad2"
   },
   {
-    "host": "proxy.soax.com",
-    "port": "26839",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
+    "host": "it-mil.pvdata.host",
+    "port": "8080",
+    "username": "g2rTXpNfPdcw2fzGtWKp62yH",
+    "password": "nizar1elad2"
   },
   {
-    "host": "proxy.soax.com",
-    "port": "26840",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
+    "host": "jp-tok.pvdata.host",
+    "port": "8080",
+    "username": "g2rTXpNfPdcw2fzGtWKp62yH",
+    "password": "nizar1elad2"
   },
   {
-    "host": "proxy.soax.com",
-    "port": "26841",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
+    "host": "lu-lux.pvdata.host",
+    "port": "8080",
+    "username": "g2rTXpNfPdcw2fzGtWKp62yH",
+    "password": "nizar1elad2"
   },
   {
-    "host": "proxy.soax.com",
-    "port": "26842",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
+    "host": "lt-sia.pvdata.host",
+    "port": "8080",
+    "username": "g2rTXpNfPdcw2fzGtWKp62yH",
+    "password": "nizar1elad2"
   },
   {
-    "host": "proxy.soax.com",
-    "port": "26843",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
+    "host": "nz-auc.pvdata.host",
+    "port": "8080",
+    "username": "g2rTXpNfPdcw2fzGtWKp62yH",
+    "password": "nizar1elad2"
   },
   {
-    "host": "proxy.soax.com",
-    "port": "26844",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
+    "host": "ph-man.pvdata.host",
+    "port": "8080",
+    "username": "g2rTXpNfPdcw2fzGtWKp62yH",
+    "password": "nizar1elad2"
   },
   {
-    "host": "proxy.soax.com",
-    "port": "26845",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
+    "host": "pt-lis.pvdata.host",
+    "port": "8080",
+    "username": "g2rTXpNfPdcw2fzGtWKp62yH",
+    "password": "nizar1elad2"
   },
   {
-    "host": "proxy.soax.com",
-    "port": "26846",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
+    "host": "pl-tor.pvdata.host",
+    "port": "8080",
+    "username": "g2rTXpNfPdcw2fzGtWKp62yH",
+    "password": "nizar1elad2"
   },
   {
-    "host": "proxy.soax.com",
-    "port": "26847",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
+    "host": "ro-buk.pvdata.host",
+    "port": "8080",
+    "username": "g2rTXpNfPdcw2fzGtWKp62yH",
+    "password": "nizar1elad2"
   },
   {
-    "host": "proxy.soax.com",
-    "port": "26848",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
+    "host": "rs-bel.pvdata.host",
+    "port": "8080",
+    "username": "g2rTXpNfPdcw2fzGtWKp62yH",
+    "password": "nizar1elad2"
   },
   {
-    "host": "proxy.soax.com",
-    "port": "26849",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
+    "host": "se-sto.pvdata.host",
+    "port": "8080",
+    "username": "g2rTXpNfPdcw2fzGtWKp62yH",
+    "password": "nizar1elad2"
   },
   {
-    "host": "proxy.soax.com",
-    "port": "26850",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26851",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26852",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26853",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26854",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26855",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26856",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26858",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26859",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26860",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26861",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26863",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26864",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26865",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26866",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26867",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26868",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26869",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26870",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26872",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26873",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26874",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26875",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26876",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26877",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26878",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26879",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26880",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26882",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26883",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26884",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
-  },
-  {
-    "host": "proxy.soax.com",
-    "port": "26885",
-    "username": "GC1il05q1lfYDsQb",
-    "password": "wifi;it;"
+    "host": "sg-sin.pvdata.host",
+    "port": "8080",
+    "username": "g2rTXpNfPdcw2fzGtWKp62yH",
+    "password": "nizar1elad2"
   }
 ]
